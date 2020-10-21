@@ -1,2 +1,2 @@
 # files
-project presentation files
+University projects presentation files
